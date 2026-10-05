@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0125-valid-palindrome) |
+| [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
