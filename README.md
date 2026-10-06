@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,8 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
