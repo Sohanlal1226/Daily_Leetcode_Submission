@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0509-fibonacci-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
