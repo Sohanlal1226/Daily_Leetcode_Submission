@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
