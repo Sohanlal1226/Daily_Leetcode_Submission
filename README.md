@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
