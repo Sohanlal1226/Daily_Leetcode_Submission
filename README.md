@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Floyd's Cycle Finding Algorithm
 |  |
