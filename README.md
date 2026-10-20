@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
