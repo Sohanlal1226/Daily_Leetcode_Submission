@@ -7,14 +7,12 @@ public:
         int num0 = 0;
         int num1 = 1;
         int num2 = 1;
-        int res = 1;
         for(int i = 2 ; i < n ; i++){
             int temp = num0 + num1 + num2;
             num0 = num1;
             num1 = num2;
             num2 = temp;
-            res = temp;
         }
-        return res;
+        return num2;
     }
 };
