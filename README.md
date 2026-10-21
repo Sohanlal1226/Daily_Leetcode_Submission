@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
