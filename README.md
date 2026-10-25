@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
