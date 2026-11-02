@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
