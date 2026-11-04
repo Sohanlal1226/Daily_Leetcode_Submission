@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0125-valid-palindrome) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0856-score-of-parentheses) |
@@ -266,4 +268,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
