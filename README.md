@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
