@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1480-running-sum-of-1d-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
