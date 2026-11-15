@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quicksort
 |  |
