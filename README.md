@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3364-minimum-positive-sum-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
