@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sohanlal1226/Daily_Leetcode_Submission/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
 |  |
 | ------- |
